@@ -1,0 +1,5 @@
+Victor Guimarães,Analista de Sistemas
+Ana Carolina,Desenvolvedora Java
+Carlos Roberto,Gerente de Projetos
+Beatriz Souza,Cientista de Dados
+Lucas Mendes,Estagiário
