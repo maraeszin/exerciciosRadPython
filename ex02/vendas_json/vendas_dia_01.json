@@ -1,0 +1,5 @@
+[
+    {"produto": "Teclado Mecânico", "quantidade": 5, "valor": 250.00},
+    {"produto": "Mouse Sem Fio", "quantidade": 12, "valor": 85.50},
+    {"produto": "Monitor 24 polegadas", "quantidade": 3, "valor": 800.00}
+]
